@@ -21,7 +21,7 @@ https://www.linkedin.com/in/emiliano-alfonso/
 
 Video en Youtube: https://youtu.be/dx3EAyvu8ac
 
-Video de Youtube encuentros anteriores con Emi:
+Videos de Youtube de encuentros anteriores con Emi:
 
 https://youtu.be/bNoEr4gCbH4 --> Repaso React Blog.
 
