@@ -19,7 +19,7 @@ https://excalidraw.com/
 
 https://www.linkedin.com/in/emiliano-alfonso/
 
-Video en Youtube:
+Video en Youtube: https://youtu.be/dx3EAyvu8ac
 
 Video de Youtube encuentros anteriores con Emi:
 
