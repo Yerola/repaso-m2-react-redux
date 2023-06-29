@@ -1,6 +1,8 @@
 # repaso-m2-react-redux
 Repaso del M2 de Henry con React y Redux by Emiliano Alfonso
 
+![image](https://github.com/Yerola/repaso-m2-react-redux/assets/108998939/85a45682-c541-4d2f-821a-0628377940e7)
+
 Enlaces de interés vistos, compartidos y/o mencionados durante el desarrollo del tema:
 
 https://fakestoreapi.com/
@@ -24,6 +26,8 @@ Video de Youtube encuentros anteriores con Emi:
 https://youtu.be/bNoEr4gCbH4 --> Repaso React Blog.
 
 https://youtu.be/0QQ2v0GRwBs --> Repaso M2 React-Redux Henry Bootcamp App StarWars.
+
+![image](https://github.com/Yerola/repaso-m2-react-redux/assets/108998939/58f09726-1396-404c-9e1a-5bd7fdf9979e)
 
 Comenzando con Create React App
 Este proyecto se inició con Create React App.
